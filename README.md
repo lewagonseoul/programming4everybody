@@ -55,8 +55,8 @@ After a session ends, switch to the `Version Control` tab and click `Pull` to ge
 Our program has 7 lessons and we follow [Codecademy’s free Ruby track](https://www.codecademy.com/learn/learn-ruby).
 Schedule for each module is shown below👇 Make sure you complete the respective modules **before** each session:
 
-1. [`Introduction to Ruby`](https://github.com/lewagonseoul/programming4everybody/blob/july-2020/01_introduction.rb) Monday, September 7th
-2. [`Control flow in Ruby`](https://github.com/lewagonseoul/programming4everybody/blob/july-2020/02_control_flow.rb) & [`Looping with Ruby`](https://github.com/lewagonseoul/programming4everybody/blob/july-2020/03_looping.rb) Wednesday, September 9th
+1. [`Introduction to Ruby`](https://github.com/lewagonseoul/programming4everybody/blob/master2020/01_introduction.rb) Monday, September 7th
+2. [`Control flow in Ruby`](https://github.com/lewagonseoul/programming4everybody/blob/master/02_control_flow.rb) & [`Looping with Ruby`](https://github.com/lewagonseoul/programming4everybody/blob/master/03_looping.rb) Wednesday, September 9th
 3. [`Arrays and Hashes`](https://github.com/lewagonseoul/programming4everybody/blob/master/04_arrays_and_hashes.rb) & [`Blocks and Sorting`](https://github.com/lewagonseoul/programming4everybody/blob/master/05_methods_and_blocks.rb) Friday, September 11th
 4. [`Hashes and Symbols`](https://github.com/lewagonseoul/programming4everybody/blob/master/06_hashes_and_symbols.rb) Monday, September 14th
 5. [`Refactoring`](https://github.com/lewagonseoul/programming4everybody/blob/master/07_refactoring.rb) & [`Procs and Lambdas`](https://github.com/lewagonseoul/programming4everybody/blob/master/08_procs_and_lambdas.rb) Wednesday, September 16th
