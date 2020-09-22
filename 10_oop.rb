@@ -36,5 +36,3 @@ class Teacher
     @password = new_password
   end
 end
-
-zach = Teacher.new(name: "zach", age: 26, country: "France", password: "12345")
