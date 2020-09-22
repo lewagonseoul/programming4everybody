@@ -1,5 +1,5 @@
 class Teacher
-  #assign an empty hash to have a default nil value as a fallback
+  # Assign an empty hash to have a default nil value as a fallback
   # Attributes of one instance of the class `Teacher`
   # if attr[:name_of_the_variable] doesn't exist, its value will be `nil`
   def initialize(attributes = {}) #CREATE
@@ -19,7 +19,7 @@ class Teacher
     @name
   end
 
-  #Reads a welcome message
+  # Reads a welcome message
   def welcome_message
     "Hello! My name is #{@name.capitalize} and I'm from #{@country}!"
   end
